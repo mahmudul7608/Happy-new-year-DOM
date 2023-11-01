@@ -1,0 +1,32 @@
+body {
+  background-image: url(./img/2024-happy-new-year-background-design-greeting-card-banner-poster-illustration-vector.jpg);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #1f2534;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+.countdown {
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+span {
+  background-color: #8551a7;
+  border: 2px solid #fafafa;
+  border-radius: 7px;
+  padding: 10px 30px;
+}
